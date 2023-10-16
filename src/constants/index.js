@@ -171,7 +171,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Kidus consistently demonstrates top-tier expertise in software development. Her solutions are innovative, efficient, and always delivered on time. A true asset to any tech team!",
+        "Kidus consistently demonstrates top-tier expertise in software development. His solutions are innovative, efficient, and always delivered on time. A true asset to any tech team!",
       name: "Tewodros Kidanne",
       designation: "CEO",
       company: "Kinship Group",
@@ -179,7 +179,7 @@ import {
     },
     {
       testimonial:
-        "I've never met developer who truly cares about their clients' success like Kidus does.",
+        "Kidus problem solving skills always tend to surprise me.",
       name: "Alemayeheu",
       designation: "Senior Developer",
       company: "Salesforce",
